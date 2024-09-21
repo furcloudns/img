@@ -1,6 +1,6 @@
 ### 这是个图片储存库
 包含数字水印， 图片右下角也包含水印 <br>未经授权的分发行为将被禁止 <br> 取得幻彩效果：
-Razer Axon 雷蛇雷幻<a href="https://cn.razerzone.com/software/axon">下载</a>
+Razer Axon 雷蛇雷幻<a href="https://cn.razerzone.com/software/axon">下载</a> <br>
 Razer Chroma 雷蛇幻彩互联<a href="https://cn.razerzone.com/chroma">下载</a>
 
 分类：
